@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>billboard_hot_100.png</file>
+  </qresource>
+</RCC>

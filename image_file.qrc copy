@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>change-coding-challenge-2021-thecae/billboard_logo.gif</file>
+  </qresource>
+</RCC>
